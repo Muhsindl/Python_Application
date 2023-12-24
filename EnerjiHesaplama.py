@@ -1,0 +1,9 @@
+m=int(input("Kütle değeri giriniz: "))
+g=9.6
+v=int(input("Hız değeri giriniz: "))
+h=int(input("Yükseklik giiniz: "))
+kEnerji=1/2*(m*(v**2))
+pEnerji=m*g*h
+print("Kinetik Enerji= ",kEnerji)
+print("Potansiyel Enerji= ",pEnerji)
+print("Mekanik Enerji= ",pEnerji+kEnerji)
