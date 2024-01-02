@@ -12,7 +12,7 @@ dizi=dizi.reshape((satır,sutun))
 eleman=int(input("Değiştirilecek eleman gir: "))
 for i in range(satır):
     for j in range(sutun):
-        if i>=j: # i>=j or i>js
+        if j>=i: # j>=i or j>i
             dizi[i][j]=eleman
             
 print(dizi)
