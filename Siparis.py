@@ -1,10 +1,12 @@
 class Siparis(object):
+    #Initilazing metot
     def __init__(self,siparisNo,siparisFiyatı,stok,numara,siparisSayısı):
         self.__siparisNo=siparisNo
         self.siparisSayısı=siparisSayısı
         self.siparisFiyatı=siparisFiyatı
         self.stok=stok      
         self.numara=numara
+        #Sınıf metodu
     def siparisHesapla(self):
         if self.siparisSayısı<= self.stok:
             if self.numara==self.__siparisNo:
