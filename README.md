@@ -1,4 +1,13 @@
-# Python Uygulama Koleksiyonu
-Bu repo, çeşitli Python projelerinden oluşan bir koleksiyondur. 
-Her bir Python dosyası, belirli bir algoritmayı, veri yapısını veya matematiksel işlemi gerçekleştiren bağımsız bir uygulamadır. 
-Bu repo, hem öğrenme amacıyla hem de belirli problemlere çözüm arayan geliştiriciler için faydalı olabilir.
+# Muhsin DOLU Python Algoritmalar
+
+Merhaba,
+
+Ben Muhsin DOLU, bir yazılım mühendisiyim. Bu repository, Python dili kullanılarak yapılmış çeşitli algoritmaları içermektedir. Algoritmalar, dosyalar halinde düzenlenmiştir ve her biri farklı problemleri çözmek için tasarlanmıştır.
+
+Bu dosyaları indirip bilgisayarınızda kullanabilirsiniz. Her algoritmanın nasıl çalıştığını anlamak için ilgili kaynak kodlarına göz atabilirsiniz.
+
+Eğer herhangi bir sorunuz veya yardım talebiniz olursa, bana [muhsindolu06@gmail.com](mailto:muhsindolu06@gmail.com) üzerinden ulaşabilirsiniz.
+
+İyi çalışmalar!
+
+Muhsin DOLU
