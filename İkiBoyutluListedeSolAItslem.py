@@ -14,5 +14,4 @@ for i in range(satır):
     for j in range(sutun):
         if i>=j: # i>=j or i>j
             dizi[i][j]=eleman
-            
 print(dizi)
